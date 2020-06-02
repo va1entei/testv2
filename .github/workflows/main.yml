@@ -31,4 +31,4 @@ jobs:
            sudo pip3 install streamlink
            sudo pip3 install Pillow
            sudo pip3 install youtube-video-upload
-           sudo python3 /opt/v2finder.py in/ /opt/ out/
+           sudo python3 /opt/v2finder.py in/ /opt/
